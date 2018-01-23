@@ -4,7 +4,6 @@ layout: default
 
 <!-- <div class="lead pretty-links"> -->
 Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
-
 {::nomarkdown}
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/me_pic.png">
