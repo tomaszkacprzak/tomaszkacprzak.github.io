@@ -4,7 +4,7 @@ layout: default
 
 <div class="lead pretty-links">
 
-**Welcome to Tomasz Kacprzak's research homepage**
+**Tomasz Kacprzak's research homepage**
 
 
 
