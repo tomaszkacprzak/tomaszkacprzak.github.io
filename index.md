@@ -7,7 +7,7 @@ Hi! this is just a sample **intro text**. You would normally put your [full name
 
 {::nomarkdown}
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/me_pic.png" height="400" width="400"">
+    <img src="{{ site.baseurl }}/assets/img/me_pic.png" height="600" width="600"">
 </figure>
 {:/}
 
