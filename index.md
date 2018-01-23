@@ -6,14 +6,15 @@ layout: default
 
 **Tomasz Kacprzak's research homepage**
 
-
-I am a post-doctoral researcher at the **ETH Zurich**, as well as having worked at the University College London and University of Manchester.
-
 {::nomarkdown}
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/me_pic.png">
 </figure>
 {:/}
+
+I am a post-doctoral researcher at the **ETH Zurich**, as well as having worked at the University College London and University of Manchester.
+
+</div>
 
 This site is under construction.
 
@@ -23,5 +24,4 @@ I am exploring novel methods of extracting information from weak gravitational l
 
 I am involved in the Dark Energy Survey project, which is currently observing the southern sky to create the largest and galaxy survey to date: <a href="http://www.darkenergysurvey.org/">www.darkenergysurvey.org</a>
 
-</div>
 
