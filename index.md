@@ -7,7 +7,7 @@ layout: default
 
 {::nomarkdown}
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/my_pic.png">
+    <img src="{{ site.baseurl }}/assets/img/me_pic.png">
 </figure>
 {:/}
 
