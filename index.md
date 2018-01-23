@@ -7,14 +7,13 @@ layout: default
 **Tomasz Kacprzak's research homepage**
 
 
+I am a post-doctoral researcher at the **ETH Zurich**, as well as having worked at the University College London and University of Manchester.
 
 {::nomarkdown}
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/me_pic.png">
 </figure>
 {:/}
-
-I am a post-doctoral researcher at the **ETH Zurich**, as well as having worked at the University College London and University of Manchester.
 
 This site is under construction.
 
