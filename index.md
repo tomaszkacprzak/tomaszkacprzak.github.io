@@ -10,7 +10,7 @@ layout: default
 </figure>
 {:/}
 
-I am a post-doctoral researcher at the ETH in Zurich, as well as having worked at the University College London and University of Manchester.
+I am a post-doctoral researcher at the **ETH Zurich**, as well as having worked at the University College London and University of Manchester.
 
 My focus is testing cosmological models with weak gravitational lensing.
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control.
