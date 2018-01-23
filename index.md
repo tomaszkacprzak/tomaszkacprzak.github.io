@@ -10,11 +10,13 @@ layout: default
 </figure>
 {:/}
 
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+I am a post-doctoral researcher at the ETH in Zurich, as well as having worked at the University College London and University of Manchester.
 
+My focus is testing cosmological models with weak gravitational lensing.
+The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control.
+I am exploring novel methods of extracting information from weak gravitational lensing datasets via, for example, shear peak statistics and deep learning.</p>
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+I am involved in the Dark Energy Survey project, which is currently observing the southern sky to create the largest and galaxy survey to date: <a href="http://www.darkenergysurvey.org/">www.darkenergysurvey.org</a>
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
 </div>
 
