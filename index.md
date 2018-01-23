@@ -4,6 +4,8 @@ layout: default
 
 <div class="lead pretty-links">
 
+**Welcome to Tomasz Kacprzak's research homepage**
+
 {::nomarkdown}
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/me_pic.png">
