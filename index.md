@@ -13,7 +13,7 @@ I am a senior researcher at ETH Zurich, as well as having worked at the Universi
 
 My focus is testing cosmological models using novel statistical and machine learning techniques.
 
----------------------------------------
+<br>
 
 
 # Links
@@ -22,7 +22,7 @@ My focus is testing cosmological models using novel statistical and machine lear
    *   [List of papers on arxiv](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   I am maintaining a [library of papers](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA) on applications of deep learning in cosmology on NASA ADS.
 
----------------------------------------
+<br>
 
 
 # Projects
@@ -48,7 +48,7 @@ The full cosmological lensing analysis is complex: starting from understanding t
 I am involved in the Dark Energy Survey project, which is currently observing the southern sky to create the largest galaxy survey to date: [www.darkenergysurvey.org](www.darkenergysurvey.org).
 
 
----------------------------------------
+<br>
 
 
 # New projects
