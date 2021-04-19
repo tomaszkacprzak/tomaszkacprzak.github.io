@@ -25,6 +25,9 @@ My focus is testing cosmological models using novel statistical and machine lear
 
 # Projects
 
+<br>
+<br>
+
 ## Cosmology and Artificial Intelligence
 
 I am the PI of the production project "Measuring Dark Energy with Deep Learning" programme at the Swiss Supercomputing Center (CSCS).
