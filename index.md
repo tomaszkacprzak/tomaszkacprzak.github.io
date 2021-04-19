@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="lead pretty-links" align="right">
+<div class="lead pretty-links" align="left">
   
   
 This site is under construction.
