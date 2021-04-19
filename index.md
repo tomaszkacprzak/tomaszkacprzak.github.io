@@ -33,6 +33,12 @@ I am the PI of the production project "Measuring Dark Energy with Deep Learning"
 
 I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Centre.
 
+## Forward modelling of telescope images
+
+I have worked on building end-to-end simulations of various telescope images, using parametric models for galaxy populations.
+I have pioneered the use of Approximate Bayesian Computation techniques to constrain galaxy population models with simulations.
+I worked on DES, CFHT and Subaru results, as well as statistical and computations techniques enabling the practical use of this approach.
+
 ## Weak gravitational lensing analysis
 
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. Finally, I am exploring novel methods of extracting information from weak gravitational lensing datasets with Convolutional Neural Networks.
