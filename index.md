@@ -6,6 +6,7 @@ layout: default
   
   
 # **Tomasz Kacprzak's homepage**
+-------------------------------------
 
 <br>
 
@@ -26,8 +27,8 @@ My focus is testing cosmological models using novel statistical and machine lear
 
 
 # Projects
+-----------------------------
 
-<br>
 
 ## Cosmology and Artificial Intelligence
 
