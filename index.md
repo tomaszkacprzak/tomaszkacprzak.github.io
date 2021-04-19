@@ -22,13 +22,28 @@ Links:
 
 
 
+I am the PI of the production project "Measuring Dark Energy with Deep Learning" programme at the Swiss Supercomputing Center (CSCS).
 
 
-I am the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Centre.
+I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Centre.
 
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. Finally, I am exploring novel methods of extracting information from weak gravitational lensing datasets with Convolutional Neural Networks.
 
 I am involved in the Dark Energy Survey project, which is currently observing the southern sky to create the largest galaxy survey to date: [www.darkenergysurvey.org](www.darkenergysurvey.org).
+
+
+
+New projects
+​
+
+​
+
+If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
+
+​
+
+I am maintaining a library of papers on applications of deep learning in cosmology on NASA ADS.
+
 
 
 
