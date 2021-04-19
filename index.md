@@ -5,8 +5,6 @@ layout: default
 <div class="lead pretty-links" align="left">
   
   
-This site is under construction.
-
 Welcome to **Tomasz Kacprzak's homepage**.
 I am a senior researcher at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
 
@@ -34,16 +32,16 @@ I am involved in the Dark Energy Survey project, which is currently observing th
 
 
 New projects
-​
-
-​
 
 If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
 
-​
 
-I am maintaining a library of papers on applications of deep learning in cosmology on NASA ADS.
 
+I am maintaining a [library of papers](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA) on applications of deep learning in cosmology on NASA ADS.
+
+
+
+This site is under construction.
 
 
 
