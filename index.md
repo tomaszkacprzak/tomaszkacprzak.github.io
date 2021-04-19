@@ -26,7 +26,6 @@ My focus is testing cosmological models using novel statistical and machine lear
 ### Cosmology and Artificial Intelligence
 
 I am the PI of the production project "Measuring Dark Energy with Deep Learning" programme at the Swiss Supercomputing Center (CSCS).
-
 I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Centre.
 
 ### Forward modelling of telescope images
@@ -38,7 +37,6 @@ I worked on DES, CFHT and Subaru results, as well as statistical and computation
 ### Weak gravitational lensing analysis
 
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. Finally, I am exploring novel methods of extracting information from weak gravitational lensing datasets with Convolutional Neural Networks.
-
 I am involved in the Dark Energy Survey project, which is currently observing the southern sky to create the largest galaxy survey to date: [www.darkenergysurvey.org](www.darkenergysurvey.org).
 
 
