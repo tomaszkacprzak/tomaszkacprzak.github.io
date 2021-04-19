@@ -5,23 +5,23 @@ layout: default
 <div class="lead pretty-links" align="left">
   
   
-Welcome to **Tomasz Kacprzak's homepage**.
+# **Tomasz Kacprzak's homepage**
+
 I am a senior researcher at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
 
 My focus is testing cosmological models using novel statistical and machine learning techniques.
 
-Links:
+## Links:
 
    *   [Personal website at the ETH Zurich](https://ethz.ch/content/specialinterest/phys/particle-physics/ipa/en/people/person-detail.MjEyNzM5.TGlzdC8xNTE3LDU5MTA3MzQ0MA==.html)
-
    *   [List of papers on arxiv](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
+   *   I am maintaining a [library of papers](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA) on applications of deep learning in cosmology on NASA ADS.
 
 
 
-
+## Projects
 
 I am the PI of the production project "Measuring Dark Energy with Deep Learning" programme at the Swiss Supercomputing Center (CSCS).
-
 
 I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Centre.
 
@@ -31,13 +31,12 @@ I am involved in the Dark Energy Survey project, which is currently observing th
 
 
 
-New projects
+## New projects
 
 If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
 
 
 
-I am maintaining a [library of papers](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA) on applications of deep learning in cosmology on NASA ADS.
 
 
 
