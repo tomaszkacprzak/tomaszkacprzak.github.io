@@ -14,12 +14,10 @@ I am a senior researcher at ETH Zurich, as well as having worked at the Universi
 
 My focus is testing cosmological models using novel statistical and machine learning techniques.
 
-<br>
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA) on deep learning in cosmology.
    *   [Personal website at the ETH Zurich.](https://ethz.ch/content/specialinterest/phys/particle-physics/ipa/en/people/person-detail.MjEyNzM5.TGlzdC8xNTE3LDU5MTA3MzQ0MA==.html)
 
-<br>
 <br>
 
 
