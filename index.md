@@ -8,7 +8,7 @@ layout: default
 This site is under construction.
 
 Welcome to Tomasz Kacprzak's homepage
-I am a postdoctoral researcher at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
+I am a senior researcher at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
 
 Links:
 
