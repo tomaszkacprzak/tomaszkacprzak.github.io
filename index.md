@@ -34,7 +34,7 @@ I was the PI of the ["Deep Learning for Observational Cosmology"](https://datasc
 ### Forward modelling of telescope images
 
 I have worked on building end-to-end simulations of various telescope images, using parametric models for galaxy populations.
-I have pioneered the use of Approximate Bayesian Computation techniques to constrain galaxy population models with simulations.
+I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to constrain galaxy population models with simulations.
 I worked on DES, CFHT and Subaru results, as well as statistical and computational techniques enabling the practical use of this approach.
 
 ### Weak gravitational lensing analysis
