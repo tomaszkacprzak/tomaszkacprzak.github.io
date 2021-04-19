@@ -7,8 +7,10 @@ layout: default
   
 This site is under construction.
 
-Welcome to Tomasz Kacprzak's homepage
+Welcome to Tomasz Kacprzak's homepage.
 I am a senior researcher at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
+
+My focus is testing cosmological models using novel statistical and machine learning techniques.
 
 Links:
 
@@ -20,7 +22,7 @@ Links:
 
 
 
-My focus is testing cosmological models using novel statistical and machine learning techniques.
+
 
 I am the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Centre.
 
