@@ -26,8 +26,6 @@ My focus is testing cosmological models using novel statistical and machine lear
 # Projects
 
 <br>
-_/
-<br>
 
 ## Cosmology and Artificial Intelligence
 
