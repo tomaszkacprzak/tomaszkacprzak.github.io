@@ -11,7 +11,7 @@ I am a senior researcher at ETH Zurich, as well as having worked at the Universi
 
 My focus is testing cosmological models using novel statistical and machine learning techniques.
 
-## Links:
+# Links:
 
    *   [Personal website at the ETH Zurich](https://ethz.ch/content/specialinterest/phys/particle-physics/ipa/en/people/person-detail.MjEyNzM5.TGlzdC8xNTE3LDU5MTA3MzQ0MA==.html)
    *   [List of papers on arxiv](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
@@ -19,7 +19,7 @@ My focus is testing cosmological models using novel statistical and machine lear
 
 
 
-## Projects
+# Projects
 
 I am the PI of the production project "Measuring Dark Energy with Deep Learning" programme at the Swiss Supercomputing Center (CSCS).
 
@@ -31,7 +31,7 @@ I am involved in the Dark Energy Survey project, which is currently observing th
 
 
 
-## New projects
+# New projects
 
 If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
 
