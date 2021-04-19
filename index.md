@@ -6,7 +6,7 @@ layout: default
   
   
 # **Tomasz Kacprzak's homepage**
--------------------------------------
+
 
 <br>
 
