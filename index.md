@@ -17,11 +17,6 @@ My focus is testing cosmological models using novel statistical and machine lear
 <br>
 
 
-## Links
--------------------------------------
-
-
-
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA) on applications of deep learning in cosmology on NASA ADS.
    *   [Personal website at the ETH Zurich.](https://ethz.ch/content/specialinterest/phys/particle-physics/ipa/en/people/person-detail.MjEyNzM5.TGlzdC8xNTE3LDU5MTA3MzQ0MA==.html)
