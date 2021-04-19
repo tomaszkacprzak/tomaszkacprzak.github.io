@@ -2,11 +2,10 @@
 layout: default
 ---
 
-<div class="lead pretty-links">
+<div class="lead pretty-links" align="justify">
   
   
 This site is under construction.
-
 
 Welcome to Tomasz Kacprzak's homepage
 I am a postdoctoral researcher at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
@@ -37,3 +36,4 @@ I am involved in the Dark Energy Survey project, which is currently observing th
 
 <!--  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*. -->
 </div>
+
