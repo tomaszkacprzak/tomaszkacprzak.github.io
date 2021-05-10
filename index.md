@@ -14,7 +14,7 @@ My focus is testing cosmological models using novel statistical and machine lear
 
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers on deep learning in cosmology.](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA)
-   *   [Personal website at the ETH Zurich.](https://ethz.ch/content/specialinterest/phys/particle-physics/ipa/en/people/person-detail.MjEyNzM5.TGlzdC8xNTE3LDU5MTA3MzQ0MA==.html)
+
 
 <br>
 
@@ -28,6 +28,7 @@ Artificial Intelligence methods, such as deep convolutional neural networks, hav
 I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
  * I am the PI of the production project "Measuring Dark Energy with Deep Learning" at the Swiss Supercomputing Center (CSCS).
  * I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Center (SDSC).
+ * I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"]("https://sites.google.com/site/aicosmo2019/"), held in Monte Verita, Ascona, 9-12 June 2019.
 
 ### Forward modelling of telescope images
 
@@ -55,7 +56,6 @@ If you are a masters student in cosmology, computer science or statistics, and a
 
 <br>
 
-This site is under construction.
 
 
 
