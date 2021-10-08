@@ -28,7 +28,7 @@ Artificial Intelligence methods, such as deep convolutional neural networks, hav
 I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
  * I am the PI of the production project "Measuring Dark Energy with Deep Learning" at the Swiss Supercomputing Center (CSCS).
  * I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Center (SDSC).
- * I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"]("https://sites.google.com/site/aicosmo2019/"), held in Monte Verita, Ascona, 9-12 June 2019.
+ * I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"](https://sites.google.com/site/aicosmo2019/), held in Monte Verita, Ascona, 9-12 June 2019.
 
 ### Forward modelling of telescope images
 
