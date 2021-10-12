@@ -11,7 +11,7 @@ layout: default
 I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch), as well as having worked at the University College London and the University of Manchester.
 I also recently joined the [Swiss Data Science Center](https://www.datascience.ch) as a Senior Data Scientist to intiate a new SDSC office at the Paul Scherrer Institute ([PSI](https://www.psi.ch)).
 
-My focus is testing cosmological models using novel statistical and machine learning techniques.
+My focus is testing cosmological models using novel statistical and machine learning techniques, as well as applications of machine learning in science in general.
 
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers on deep learning in cosmology.](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA)
