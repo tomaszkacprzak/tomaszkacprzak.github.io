@@ -9,7 +9,7 @@ layout: default
 -----------------------------
 
 I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch), as well as having worked at the University College London and the University of Manchester.
-I also recently joined the [Swiss Data Science Center](https://www.datascience.ch) as Senior Data Scientist to intiate a new office at the Paul Scherrer Institute ([PSI](https://www.psi.ch)).
+I also recently joined the [Swiss Data Science Center](https://www.datascience.ch) as a Senior Data Scientist to intiate a new office at the Paul Scherrer Institute ([PSI](https://www.psi.ch)).
 
 My focus is testing cosmological models using novel statistical and machine learning techniques.
 
