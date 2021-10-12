@@ -8,7 +8,7 @@ layout: default
 # **Tomasz Kacprzak's homepage**
 -----------------------------
 
-I am a senior scientist at ETH Zurich, as well as having worked at the University College London and the University of Manchester.
+I am a senior scientist at [ETH Zurich](www.cosmology.ethz.ch), as well as having worked at the University College London and the University of Manchester.
 I also recently joined the [Swiss Data Science Center](www.datascience.ch) as Senior Data Scientist to intiate a new office at the Paul Scherrer Institute ([PSI](www.psi.ch)).
 
 My focus is testing cosmological models using novel statistical and machine learning techniques.
