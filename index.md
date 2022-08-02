@@ -4,6 +4,7 @@ layout: default
 
 <div class="lead pretty-links" align="left">
   
+ <img style="float: right;" src="assets/img/Kacprzak_Tomasz-684x1024.jpg">
   
 # **Tomasz Kacprzak's homepage**
 -----------------------------
