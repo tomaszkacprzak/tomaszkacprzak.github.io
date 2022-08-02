@@ -5,15 +5,13 @@ layout: default
 <div class="lead pretty-links" align="left">
   
 
-<img style="padding: 10px 10px 10px 10px;" style="float:right" width="200" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
-
 # **Tomasz Kacprzak's homepage**
 -----------------------------
   
 
 <br>
 
-
+<img style="padding: 10px 10px 10px 10px; float:right" width="150" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
 <div style="text-align: justify"> 
 I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute (PSI)](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the Univeristy College London, as well as previously a MSc in Machine Learning from the same university.
 
