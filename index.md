@@ -17,7 +17,7 @@ My focus is testing cosmological models using novel statistical and machine lear
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers on deep learning in cosmology.](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA)
 
- <img style="float: right;" src="assets/img/Kacprzak_Tomasz-684x1024.jpg">
+ <img style="float:right" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
 
 <br>
 
