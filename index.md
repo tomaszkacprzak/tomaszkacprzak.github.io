@@ -9,12 +9,12 @@ layout: default
 
 # **Tomasz Kacprzak's homepage**
 
---------------------------------
 
-I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch), as well as having worked at the University College London and the University of Manchester.
-I also recently joined the [Swiss Data Science Center](https://www.datascience.ch) as a Senior Data Scientist to intiate a new SDSC office at the Paul Scherrer Institute ([PSI](https://www.psi.ch)).
+<div style="text-align: right"> your-text-here 
+I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the Paul Scherrer Institute ([PSI](https://www.psi.ch)). I obtained my PhD in Physics and Astronomy from the Univeristy College London, as well as a MSc in Machine Learning previously from the same university.
+</div>
 
-My focus is testing cosmological models using novel statistical and machine learning techniques, as well as applications of machine learning in science in general.
+My focus is testing cosmological models using novel statistical and artificial intelligence techniques and applications of machine learning in applied physics and climate modelling.
 
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers on deep learning in cosmology.](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA)
