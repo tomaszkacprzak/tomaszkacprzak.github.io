@@ -31,7 +31,7 @@ My focus is testing cosmological models using novel statistical and artificial i
 ## Projects
 -----------------------------
 
-
+<br>  
 ### Cosmology and Artificial Intelligence
   
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web.
@@ -62,7 +62,7 @@ I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to
 
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. I developed the first integrated, simulation-based approach for joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy sample. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. I led the team at the ETH Zurich that applied this methodology to the [Dark Energy Survey Year 1 cosmology measurement](https://cosmology.ethz.ch/news-and-events/refregier-group/2019/07/submitted%20paper.html).
 
-
+<br>  
 ## New projects
 -------------------------------------
 
