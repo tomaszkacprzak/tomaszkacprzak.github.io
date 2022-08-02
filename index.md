@@ -51,6 +51,18 @@ I am the SDSC lead of the collaborative project "Robust and scalable Machine Lea
 
 I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch/) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
   
+<br>  
+## New projects
+-------------------------------------
+
+If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
+
+
+<br>  
+## Past projects
+-------------------------------------
+
+
 <br>
 ### Forward modelling of telescope images
 
@@ -62,15 +74,6 @@ I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to
 
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. I developed the first integrated, simulation-based approach for joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy sample. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. I led the team at the ETH Zurich that applied this methodology to the [Dark Energy Survey Year 1 cosmology measurement](https://cosmology.ethz.ch/news-and-events/refregier-group/2019/07/submitted%20paper.html).
 
-<br>  
-## New projects
--------------------------------------
-
-If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
-
-
-<br>
-
 
 
 
@@ -80,4 +83,3 @@ If you are a masters student in cosmology, computer science or statistics, and a
 
 <!--  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*. -->
 </div>
-
