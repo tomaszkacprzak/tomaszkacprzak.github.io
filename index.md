@@ -57,7 +57,7 @@ I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exc
 
 If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email at tomaszk at phys dot ethz dot ch.
 
-
+<br>  
 ## Past projects
 -------------------------------------
 
