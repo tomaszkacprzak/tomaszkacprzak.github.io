@@ -5,7 +5,7 @@ layout: default
 <div class="lead pretty-links" align="left">
   
 
-<img style="float:right" width="200" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
+<img style="padding: 0px 5px 0px 0px;" style="float:right" width="200" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
 
 # **Tomasz Kacprzak's homepage**
 
