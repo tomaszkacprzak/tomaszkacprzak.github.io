@@ -8,8 +8,9 @@ layout: default
 <img style="padding: 10px 10px 10px 10px;" style="float:right" width="200" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
 
 # **Tomasz Kacprzak's homepage**
+-----------------------------
   
-<br>
+
 <br>
 
 
