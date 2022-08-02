@@ -35,7 +35,7 @@ My focus is testing cosmological models using novel statistical and artificial i
 <div style="text-align: justify"> 
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web.
 I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
- * I am the Simulations Working Group coordinator in the [Dark Energy Survey](https://www.darkenergysurvey.org)
+ * I am the Simulations Working Group coordinator in the [Dark Energy Survey](https://www.darkenergysurvey.org).
  * I am the PI of the production project "Measuring Dark Energy with Deep Learning" at the Swiss Supercomputing Center (CSCS), producing the CosmoGrid simulations, available at [cosmogrid.ai](www.cosmogrid.ai).
  * I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Center (SDSC).
  * I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"](https://sites.google.com/site/aicosmo2019/), held in Monte Verita, Ascona, 9-12 June 2019.
