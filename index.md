@@ -34,6 +34,14 @@ I have introduced the deep learning appraches to constraining cosmological param
  * I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/deep-learning-for-observational-cosmology-dloc/) programme at the Swiss Data Science Center (SDSC).
  * I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"](https://sites.google.com/site/aicosmo2019/), held in Monte Verita, Ascona, 9-12 June 2019.
 
+### Neutron Diffaction Inverse Problems
+
+I am the SDSC lead of the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. I am collaborating with the beamline scientists on developing novel methods to dramatially accelerate the polycrystalline grain indexing process from neutron diffraction images and improve the indexing precision. Neutron diffraction uses a wide wavelength beam, which the inversion process is particularly difficult due to its combinatorial nature.
+
+### Climate simulations compression
+
+I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch/) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
+  
 ### Forward modelling of telescope images
 
 I have worked on building end-to-end simulations of various telescope images, using parametric models for galaxy populations.
