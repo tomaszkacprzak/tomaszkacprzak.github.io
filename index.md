@@ -47,7 +47,7 @@ I am the SDSC lead of the collaborative project "Robust and scalable Machine Lea
 
 ### Climate simulations compression
 
-I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch/) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
+I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch/) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
   
 ### Forward modelling of telescope images
 
