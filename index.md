@@ -7,6 +7,8 @@ layout: default
 
   
 # **Tomasz Kacprzak's homepage**
+<img style="float:right" width="200" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
+
 -----------------------------
 
 I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch), as well as having worked at the University College London and the University of Manchester.
@@ -17,7 +19,6 @@ My focus is testing cosmological models using novel statistical and machine lear
    *   [List of papers on arxiv.](https://arxiv.org/find/astro-ph/1/au:+Kacprzak_T/0/1/0/all/0/1)
    *   [Library of papers on deep learning in cosmology.](https://ui.adsabs.harvard.edu//#user/libraries/Tm731Ip0TkqWf9jLr5bMpA)
 
- <img style="float:right" width="100" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
 
 <br>
 
