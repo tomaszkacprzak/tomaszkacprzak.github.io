@@ -13,7 +13,7 @@ layout: default
 
 <img style="padding: 20px 20px 20px 20px; float:right" width="150" src="assets/img/Kacprzak_Tomasz-684x1024.jpg" /> 
 <div style="text-align: justify"> 
-I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute (PSI)](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the Univeristy College London, as well as previously a MSc in Machine Learning from the same university.
+I am a senior scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the Univeristy College London, as well as previously a MSc in Machine Learning from the same university.
 
 
 My focus is testing cosmological models using novel statistical and artificial intelligence techniques and applications of machine learning in applied physics and climate modelling.
