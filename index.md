@@ -19,12 +19,12 @@ My focus is testing cosmological models using novel statistical and artificial i
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
 
 - I am the PI of the production project "Measuring Dark Energy with Deep Learning" at the Swiss Supercomputing Center (CSCS), producing the CosmoGrid simulations, available at [www.cosmogrid.ai](www.cosmogrid.ai).
-- I was the PI of the "Deep Learning for Observational Cosmology" programme at the Swiss Data Science Center (SDSC).
-- I was the lead organizer for the workshop "Artificial Intelligence Methods in Cosmology", held in Monte Verita, Ascona, 9-12 June 2019.
+- I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/dloc/) programme at the Swiss Data Science Center (SDSC).
+- I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"](https://sites.google.com/site/aicosmo2019/), held in Monte Verita, Ascona, 9-12 June 2019.
 
 ### Dark Energy Survey
 
-I am the Simulations Working Group coordinator and a memeber of the Science Committee in the [Dark Energy Survey](www.darkenergysurvey.org), where I am helping to organize new projects using simulation-based inference. I led the first simulation-based inference cosmology mesurement with DES, using shear peaks [arxiv.org/abs/1603.05040](https://arxiv.org/abs/1603.05040), and since then led the efforts within DES to advance simulations-based inference.
+I am the Simulations Working Group coordinator and a memeber of the Science Committee in the [Dark Energy Survey](www.darkenergysurvey.org), where I am helping to organize new projects using simulation-based inference. I led the first simulation-based inference cosmology mesurement with DES, using shear peaks [arxiv.org/abs/1603.05040](https://arxiv.org/abs/1603.05040), and since then led the efforts within DES to advance simulations-based inference. Previously, I worked extensively on galaxy shape measurements, image simulations, and noise biases in cosmological measurements, and contributed significantly to DES Science Verification shape measurements [arxiv.org/abs/1507.05603](https://arxiv.org/abs/1507.05603).
 
 ### Neutron diffaction inverse problems
 
