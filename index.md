@@ -1,10 +1,10 @@
-## About me
+# About me
 
 I am a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the Univeristy College London, as well as previously a MSc in Machine Learning from the same university.
 My focus is testing cosmological models using novel statistical and artificial intelligence techniques. I am also expanding my focus area into applications of machine learning in applied physics and climate modelling through large simulations.
 
 
-## Recent papers
+# Recent papers
 
 - DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes, accepted to PRX, [arxiv.org/abs/2203.09616](https://arxiv.org/abs/2203.09616)
 
@@ -13,7 +13,7 @@ My focus is testing cosmological models using novel statistical and artificial i
 - Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach, MNRAS 511, 2, 2075-2104, 2022, [arxiv.org/abs/2110.10135](https://arxiv.org/abs/2110.10135)
 
 
-## Projects
+# Projects
 
 ###  Cosmology and artificial intelligence
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
@@ -42,13 +42,13 @@ I have worked on building end-to-end simulations of various telescope images, us
 
 The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. I developed the first integrated, simulation-based approach for joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy sample. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. I led the team at the ETH Zurich that applied this methodology to the Dark Energy Survey Year 1 cosmology measurement.
 
-## Contact
+# Contact
 
 
 - Email at ETH Zurich: tomaszk at phys dot ethz dot ch
 - Email at PSI: tomasz dot kacprzak at psi dot ch
 
-## New projects
+# New projects
 
 If you are a masters student in cosmology, computer science or statistics, and are interested in a project, you send me an email.
 
