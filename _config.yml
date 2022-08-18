@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Tomasz Kacprzak
 logo: /assets/img/logo.png
-description: data science, cosmology, physics
 markdown: kramdown
 show_downloads: False
