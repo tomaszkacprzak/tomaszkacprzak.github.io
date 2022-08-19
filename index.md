@@ -10,7 +10,7 @@ My focus is testing cosmological models using novel statistical and artificial i
 
 - Redshift requirements for cosmic shear with intrinsic alignment, submitted to JCAP, [arxiv.org/abs/2207.01627](https://arxiv.org/abs/2207.01627)
 
-- Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach, [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)).
+- Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach, [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572).
 
 
 # Projects
