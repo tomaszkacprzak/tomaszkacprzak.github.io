@@ -6,7 +6,8 @@ My focus is testing cosmological models using novel statistical and artificial i
 
 # Recent papers
 
-- DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes, published in Physical Review X, [PhysRevX.12.031029](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), with a [popular summary](https://physics.aps.org/articles/v15/s111),
+- DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes, published in Physical Review X, [PhysRevX.12.031029](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), and was highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
+
 
 - Redshift requirements for cosmic shear with intrinsic alignment, submitted to JCAP, [arxiv.org/abs/2207.01627](https://arxiv.org/abs/2207.01627),
 
