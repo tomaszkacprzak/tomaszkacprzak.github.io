@@ -48,13 +48,15 @@ At PSI, I work on a number of projects advancing the applications of machine lea
 
 - I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
 
-### Forward modelling of telescope images
 
-I have worked on building end-to-end simulations of various telescope images, using parametric models for galaxy populations. I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to constrain galaxy population models with simulations. I worked on DES, CFHT and Subaru results, as well as statistical and computational techniques enabling the practical use of this approach.
+### Simulations-based inference in cosmology and astronomy
 
-### Weak gravitational lensing analysis
+I have worked on building end-to-end simulations of various telescope images, using parametric models for galaxy populations. I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to constrain galaxy population models with simulations. 
 
-The full cosmological lensing analysis is complex: starting from understanding the effects affecting the pixels in the telescope camera, through modelling of atmospheric image distortions, measuring shapes of galaxies, and simulation-driven systematic errors control. I developed the first integrated, simulation-based approach for joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy sample. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. I led the team at the ETH Zurich that applied this methodology to the Dark Energy Survey Year 1 cosmology measurement.
+- I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation and utilizes high-performance computing platforms.
+
+ - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology. I led the team that performed the first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. 
+
 
 # Contact
 
