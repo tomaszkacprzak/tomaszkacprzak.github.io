@@ -63,11 +63,12 @@ I have worked on building end-to-end simulations of various telescope images, us
 
 I gave a number of talks at international conferences, workshops, and university colloquia. Those are available online:
 
-Bayesian deep learning for cosmology and time domain astrophysics, Paris, France, June 20-24 2022 (AstroDeep22)
+Invited keynote talk at *Bayesian deep learning for cosmology and time domain astrophysics*, Paris, France, June 20-24 2022 (AstroDeep22)
 
 {% include youtube.html id="X0Uk8gB-dF4" %}
 
-Insitute for Computational Science, University of Zurich, Paris, France, June 20-24 2022 (AstroDeep22)
+Other talks:
+- ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
 
 
 {% include youtube.html id="0HihsVz_b9I" %}
