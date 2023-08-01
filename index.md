@@ -66,7 +66,7 @@ This allows us to achieve the same precision of redshift measurement without usi
 
 - I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation (ABC) and utilizes high-performance computing platforms. 
 
- - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. The ETH team created a full analysis pipeline, from image pixels to cosmology ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
+ - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. The ETH team created a full analysis pipeline, from image pixels to cosmology parameter constraints ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
 
 
 <br>
