@@ -30,6 +30,8 @@ I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the 
 
 - As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations,
 
+- I led the first simulation-based inference cosmology mesurement with DES, using shear peaks and the Science Verification dataset [MNRAS 2016 463, 4, 2016](https://academic.oup.com/mnras/article/463/4/3653/2646308), followed by the full survey area analysis in DES Year 3 ([MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)),
+
 I am the Simulations Working Group coordinator and a memeber of the Science Committee in the [Dark Energy Survey](http://www.darkenergysurvey.org), where I am helping to organize new projects using simulation-based inference. I led the first simulation-based inference cosmology mesurement with DES, using shear peaks [arxiv.org/abs/1603.05040](https://arxiv.org/abs/1603.05040), and since then led the efforts within DES to advance simulations-based inference. Previously, I worked extensively on galaxy shape measurements, image simulations, and noise biases in cosmological measurements, and contributed significantly to DES Science Verification shape measurements [arxiv.org/abs/1507.05603](https://arxiv.org/abs/1507.05603).
 
 ### Neutron diffaction inverse problems
