@@ -2,7 +2,7 @@
 
 <p align="justify"> 
 I am a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
-My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics and cosmology.
+My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
 </p>
 
 # Recent papers
