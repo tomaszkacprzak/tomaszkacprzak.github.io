@@ -40,11 +40,9 @@ I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the 
 
 ### Machine learning for applied physics and climate science
 
-At PSI, I work on a number of projects advancing the applications of machine learning to applied physics:
+At PSI, I work on a number of projects advancing the applications of machine learning to applied physics and climate simulations:
 
 - I lead of the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to prevsious methods. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
-
-- I am building novel approaches for finding diffraction spots from detector images, using simulations-based pre-trained models and Unsupervised Domain Adaptation.
 
 - I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
 
