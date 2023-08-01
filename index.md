@@ -53,7 +53,7 @@ I have worked on building end-to-end simulations of various telescope images, us
 
 - I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation and utilizes high-performance computing platforms.
 
- - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology. I led the team that performed the first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. 
+ - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
 
 
 # Teaching
