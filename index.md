@@ -73,7 +73,7 @@ This allows us to achieve the same precision of redshift measurement without usi
 # Talks
 ---
 
-I gave >20 invited talks at international conferences, workshops, and university colloquia. Those are available online:
+I gave >20 invited talks at international conferences, workshops, and university colloquia. Some of them are available online.
 
 Invited keynote talk at *Bayesian deep learning for cosmology and time domain astrophysics*, Paris, France, June 20-24 2022 (AstroDeep22)
 
