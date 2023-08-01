@@ -76,6 +76,7 @@ Other talks:
 
 
 # Teaching
+---
 
 I taught a number of courses on machine learning and data science, cosmology, and astrophysics:
 
@@ -85,18 +86,18 @@ I taught a number of courses on machine learning and data science, cosmology, an
 - Guest lecturer for UG course *Introduction to Data Science* (2019, 2020), University of Zurich
 
 
----
-
-
----
 
 # Contact
+---
 
 
 - Email at ETH Zurich: tomaszk at phys dot ethz dot ch
 - Email at PSI: tomasz dot kacprzak at psi dot ch
 
+
+
 # New projects
+---
 
 If you are a masters student in cosmology, computer science or statistics, and are interested in a project, please send me an email.
 
