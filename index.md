@@ -35,9 +35,13 @@ I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the 
 
 - I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear measurements, and contributed significantly to DES Science Verification weak lensing analysis [arxiv.org/abs/1507.05603](https://arxiv.org/abs/1507.05603).
 
-### Neutron diffaction inverse problems
+### Machine learning for applied physics 
 
-I am the SDSC lead of the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. I am collaborating with the beamline scientists on developing novel methods to dramatially accelerate the polycrystalline grain indexing process from neutron diffraction images and improve the indexing precision. Neutron diffraction uses a wide wavelength beam, which the inversion process is particularly difficult due to its combinatorial nature.
+At PSI, I work on a number of projects advancing the applications of machine learning to applied physics:
+
+- I lead of the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to prevsious methods. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
+
+- I am building novel approaches for finding diffraction spots from detector images, using simulations-based pre-trained models and Unsupervised Domain Adaptation.
 
 ### Climate simulations compression
 
