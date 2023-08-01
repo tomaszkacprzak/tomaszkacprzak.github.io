@@ -1,16 +1,16 @@
 # Data science, cosmology, physics
 
-<p align="justify"> 
+ <div align="justify">
 I am a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
 My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
-</p>
+</div>
+
 
 # Recent papers
 
 - DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes, published in Physical Review X, [PhysRevX.12.031029](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), and was highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
 
-
-- Redshift requirements for cosmic shear with intrinsic alignment, submitted to JCAP, [arxiv.org/abs/2207.01627](https://arxiv.org/abs/2207.01627),
+- CosmoGridV1: a simulated 𝗐CDM theory prediction for map-level cosmological inference [JCAP02(2023)050] (https://iopscience.iop.org/article/10.1088/1475-7516/2023/02/050)
 
 - Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach, [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572).
 
