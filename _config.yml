@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 markdown: kramdown
 show_downloads: False
+is_user_page: False
