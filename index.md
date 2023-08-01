@@ -4,6 +4,7 @@
 I am a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
 My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
 
+<br>
 # Recent papers
 ---
 
@@ -16,7 +17,7 @@ My focus is applications of novel machine learning and high-performance computin
 - *Full wCDM analysis of KiDS-1000 weak lensing maps using deep learning*, published in [Phys. Rev. D 105, 083518, 2022](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.083518).
 
 
-
+<br>
 # Projects
 ---
 
@@ -60,7 +61,7 @@ I have worked on building end-to-end simulations of various telescope images, us
  - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
 
 
-
+<br>
 # Talks
 ---
 
@@ -76,7 +77,7 @@ Other talks:
 - ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
 - Institute of Space Sciences (ICE-CSIC) [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw)
 
-
+<br>
 # Teaching
 ---
 
@@ -88,7 +89,7 @@ I taught a number of courses on machine learning and data science, cosmology, an
 - Guest lecturer for UG course *Introduction to Data Science* (2019, 2020), University of Zurich
 
 
-
+<br>
 # Contact
 ---
 
@@ -97,7 +98,7 @@ I taught a number of courses on machine learning and data science, cosmology, an
 - Email at PSI: tomasz dot kacprzak at psi dot ch
 
 
-
+<br>
 # New projects
 ---
 
