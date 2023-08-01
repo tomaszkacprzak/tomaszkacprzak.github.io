@@ -98,7 +98,7 @@ The data from CosmoGridV1 is available at [www.cosmogrid.ai](www.cosmogrid.ai).
 
 <br>
 
-- I co-created [DeepSphere](https://github.com/deepsphere), a graph-based neural network architecture for analysing data on the sphere ([Astronomy and Computing 2019, 27](https://www.sciencedirect.com/science/article/abs/pii/S2213133718301392?via%3Dihub)).
+- I co-created [DeepSphere](https://github.com/deepsphere), a graph-based neural network architecture for analysing data on the sphere ([Astr. Comp. 2019, 27](https://www.sciencedirect.com/science/article/abs/pii/S2213133718301392?via%3Dihub)).
 
 - I published the [DeepLSS code](https://github.com/tomaszkacprzak/DeepLSS) from the PRX paper [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029).
 
