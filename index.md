@@ -22,7 +22,7 @@ My focus is applications of novel machine learning and high-performance computin
 ---
 
 ###  Cosmology and artificial intelligence
-Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations. I demonstrated that the AI-based analysis can achieve 40% improvement in measurement precision, an equivalent gain to an analysis with conventional methods and 2x more survey data.
+Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations. I demonstrated that the AI-based analysis can achieve 40% improvement in measurement precision, a gain equivalent to using 2x more survey data with conventional methods.
 
 - I performed the first cosmological analysis with deep learning, on KiDS-450 dataset ([Phys. Rev. D 2019, 100, 063514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514), with Janis Fluri), which was promoted by [ETH News (18/09/2019)](https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html) and [MIT Techology Review (19/09/2019)](https://www.technologyreview.com/2019/09/19/446/facial-recognition-algorithms-can-be-deployed-to-hunt-for-dark-matter/). 
 
