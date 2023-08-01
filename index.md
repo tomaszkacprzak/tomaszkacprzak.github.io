@@ -115,7 +115,7 @@ I taught a number of courses on machine learning and data science, cosmology, an
 
 - *Statistical Methods and Analysis in Experimental Physics* (2019, 2020), MSc course, ETHZ Physics
 - *Advanced Statistical Methods in Cosmology* (2016, 2017), MSc course, ETHZ Physics
-- *Cosmological Probes* (2017), MSc course, ETHZ Physics Department
+- *Cosmological Probes* (2017), MSc course, ETHZ Physics
 - Guest lecturer for UG course *Introduction to Data Science* (2019, 2020), University of Zurich
 
 
