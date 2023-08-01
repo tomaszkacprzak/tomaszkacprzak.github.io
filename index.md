@@ -8,7 +8,7 @@ My focus is applications of novel machine learning and high-performance computin
 
 - **CosmoGridV1: a simulated 𝗐CDM theory prediction for map-level cosmological inference**, with data available at [www.cosmogrid.ai](www.cosmogrid.ai), published in [JCAP 2, 50, 2023](https://iopscience.iop.org/article/10.1088/1475-7516/2023/02/050),
 
-- DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
+- **DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes**, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
 
 - **Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach**, published in [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572),
 
@@ -20,7 +20,7 @@ My focus is applications of novel machine learning and high-performance computin
 ###  Cosmology and artificial intelligence
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
 
-- I performed the first cosmological analysis with deep learning, on KiDS-450 dataset ([Phys. Rev. D 100, 063514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514), with Janis Fluri), which was higlighted by the 
+- I performed the first cosmological analysis with deep learning, on KiDS-450 dataset ([Phys. Rev. D 100, 063514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514), with Janis Fluri), which was higlighted by the [ETH News (18/09/2019)](https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html) and [MIT Techology Review (19/09/2019)](https://www.technologyreview.com/2019/09/19/446/facial-recognition-algorithms-can-be-deployed-to-hunt-for-dark-matter/). 
 - I was the PI of the production project "Measuring Dark Energy with Deep Learning" at the Swiss Supercomputing Center (CSCS), producing the CosmoGrid simulations, available at [www.cosmogrid.ai](http://www.cosmogrid.ai).
 - I was the PI of the ["Deep Learning for Observational Cosmology"](https://datascience.ch/project/dloc/) programme at the Swiss Data Science Center (SDSC).
 - I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"](https://sites.google.com/site/aicosmo2019/), held in Monte Verita, Ascona, 9-12 June 2019.
