@@ -66,10 +66,7 @@ I gave a number of talks at international conferences, workshops, and university
 - [AstroDeep2019 Paris](https://www.youtube.com/watch?v=X0Uk8gB-dF4)
 
 
-<div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_7NP7s_0d7E" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{% include youtube.html id="JLMbpiywVxQ" %}
 
 # Teaching
 
