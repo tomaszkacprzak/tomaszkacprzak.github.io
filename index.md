@@ -60,13 +60,11 @@ I have been involved in DES since 2012, with the following contributions:
 
 In photometric surveys, the distances to galaxies are inferred from galaxy colors by matching them to galaxies found in previous spectroscopic surveys.
 While this approach has many successes for closeby galaxies, where spectroscopic data is available in abundance, it can be difficult to reliably apply to far-away galaxies.
-This is due to our lack of understanding of the population these high-redshift galaxies, and their evolution over time. 
+This is due to our lack of understanding of the population these high-redshift galaxies, as well as their evolution over cosmic time. 
 Difficulties with modelling selection functions for spectroscopic surveys further complicates this problem.
 An alternative is to use very realistic image simulations and use them to infere galaxy populations using advanced statistical methods.
-To achieve this, I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to constrain galaxy population models with simulations. 
-I built end-to-end simulations of various telescope images, using parametric models for galaxy populations, and constrained them using imaging survey data. 
 
-- I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation and utilizes high-performance computing platforms. 
+- I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation (ABC) and utilizes high-performance computing platforms. 
 
  - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
 
