@@ -56,6 +56,15 @@ I have worked on building end-to-end simulations of various telescope images, us
  - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology. I led the team that performed the first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics. 
 
 
+# Teaching
+
+I taught a number of courses on machine learning and data science, cosmology, and astrophysics:
+
+- *Statistical Methods and Analysis in Experimental Physics* (2019, 2020), MSc course, ETHZ Physics Department
+- *Advanced Statistical Methods in Cosmology* (2016, 2017), MSc course, ETHZ Physics Department
+- *Cosmological Probes* (2017), MSc course, ETHZ Physics Department
+- Guest lecturer for UG course *Introduction to Data Science* (2019, 2020), University of Zurich
+
 # Contact
 
 
