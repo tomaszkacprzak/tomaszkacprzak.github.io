@@ -3,7 +3,6 @@
 
 I am a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
 My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
-[Full CV](assets/CV_Tomasz_Kacprzak_230801.pdf) is available.
 
 <br>
 # Recent papers
@@ -16,8 +15,6 @@ My focus is applications of novel machine learning and high-performance computin
 - *Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach*, published in [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572),
 
 - *Full wCDM analysis of KiDS-1000 weak lensing maps using deep learning*, published in [Phys. Rev. D 105, 083518, 2022](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.083518).
-
-Full list of papers on [Google Scholar](https://scholar.google.com/citations?user=1eZr_L0AAAAJ&hl=en&oi=ao). Current h-index 37 (2023).
 
 
 <br>
