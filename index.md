@@ -26,6 +26,10 @@ Artificial Intelligence methods, such as deep convolutional neural networks, hav
 
 ### Dark Energy Survey
 
+I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the largest ground-based cosmological observational survey to date. I have been involved in DES since 2012, with the following contributions:
+
+- As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations,
+
 I am the Simulations Working Group coordinator and a memeber of the Science Committee in the [Dark Energy Survey](http://www.darkenergysurvey.org), where I am helping to organize new projects using simulation-based inference. I led the first simulation-based inference cosmology mesurement with DES, using shear peaks [arxiv.org/abs/1603.05040](https://arxiv.org/abs/1603.05040), and since then led the efforts within DES to advance simulations-based inference. Previously, I worked extensively on galaxy shape measurements, image simulations, and noise biases in cosmological measurements, and contributed significantly to DES Science Verification shape measurements [arxiv.org/abs/1507.05603](https://arxiv.org/abs/1507.05603).
 
 ### Neutron diffaction inverse problems
