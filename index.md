@@ -22,7 +22,7 @@ My focus is applications of novel machine learning and high-performance computin
 ---
 
 ###  Cosmology and artificial intelligence
-Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
+Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations.
 
 - I performed the first cosmological analysis with deep learning, on KiDS-450 dataset ([Phys. Rev. D 2019, 100, 063514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514), with Janis Fluri), which was promoted by [ETH News (18/09/2019)](https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html) and [MIT Techology Review (19/09/2019)](https://www.technologyreview.com/2019/09/19/446/facial-recognition-algorithms-can-be-deployed-to-hunt-for-dark-matter/). 
 
@@ -36,18 +36,18 @@ Artificial Intelligence methods, such as deep convolutional neural networks, hav
 
 At PSI, I work on a number of projects advancing the applications of machine learning to applied physics and climate simulations:
 
-- I lead of the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to prevsious methods. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
+- I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
 
 - I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
 
 
 ### Dark Energy Survey
 
-I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the largest ground-based cosmological observational survey to date. I have been involved in DES since 2012, with the following contributions:
+I am a Builder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the largest ground-based cosmological observational survey to date. I have been involved in DES since 2012, with the following contributions:
 
 - As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations.
 
-- I led the first simulation-based inference cosmology mesurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)).
+- I led the first simulation-based inference cosmology measurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)).
 
 - I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear calibrations, and contributed significantly to DES Science Verification weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)).
 
@@ -65,7 +65,7 @@ I have worked on building end-to-end simulations of various telescope images, us
 # Talks
 ---
 
-I gave a >20 invited talks at international conferences, workshops, and university colloquia. Those are available online:
+I gave >20 invited talks at international conferences, workshops, and university colloquia. Those are available online:
 
 Invited keynote talk at *Bayesian deep learning for cosmology and time domain astrophysics*, Paris, France, June 20-24 2022 (AstroDeep22)
 
@@ -85,7 +85,7 @@ Other recorded talks include:
 
 I am producing and maintaining a number of datasets and software packages.
 
-- I am the leader of the CosmoGridV1 simulation project, which produces cosmological simulations suited for analyes with artificial intelligence. 
+- I am the leader of the CosmoGridV1 simulation project, which produces cosmological simulations suited for analyses with artificial intelligence. 
 The data from CosmoGridV1 is available at [www.cosmogrid.ai](www.cosmogrid.ai).
 
 {% include youtube.html id="_7NP7s_0d7E" %}
