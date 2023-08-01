@@ -73,10 +73,10 @@ Invited keynote talk at *Bayesian deep learning for cosmology and time domain as
 
 <br>
 
-Other talks:
-- ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland, 2022, [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
-- Institute of Space Sciences (ICE-CSIC), Barcelona, Spain, 2022, [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw)
-- Cosmic Connections: A ML X Astrophysics Symposium at Simons Foundation, Flatiron Institute, New York, USA [video: day 2 session 2]([https://www.youtube.com/watch?v=2E7ys35x3Rw](https://www.simonsfoundation.org/event/cosmic-connections-a-ml-x-astrophysics-symposium/))
+Other recorded talks include:
+- ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland, 2022, [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I),
+- Institute of Space Sciences (ICE-CSIC), Barcelona, Spain, 2022, [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw),
+- Cosmic Connections: A ML X Astrophysics Symposium at Simons Foundation, Flatiron Institute, New York, USA [video: day 2 session 2](https://www.youtube.com/watch?v=2E7ys35x3Rw](https://www.simonsfoundation.org/event/cosmic-connections-a-ml-x-astrophysics-symposium/).
 
 <br>
 # Teaching
