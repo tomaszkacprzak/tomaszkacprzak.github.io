@@ -38,7 +38,7 @@ I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the 
 
 - I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear measurements, and contributed significantly to DES Science Verification weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)).
 
-### Machine learning for applied physics 
+### Machine learning for applied physics and climate science
 
 At PSI, I work on a number of projects advancing the applications of machine learning to applied physics:
 
@@ -46,9 +46,7 @@ At PSI, I work on a number of projects advancing the applications of machine lea
 
 - I am building novel approaches for finding diffraction spots from detector images, using simulations-based pre-trained models and Unsupervised Domain Adaptation.
 
-### Climate simulations compression
-
-I am the lead data scientist at SDSC's contribution to the Exclaim project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
+- I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
 
 ### Forward modelling of telescope images
 
