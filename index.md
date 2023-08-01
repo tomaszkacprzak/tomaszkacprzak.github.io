@@ -70,6 +70,8 @@ Invited keynote talk at *Bayesian deep learning for cosmology and time domain as
 
 {% include youtube.html id="X0Uk8gB-dF4" %}
 
+<br>
+
 Other talks:
 - ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
 - Institute of Space Sciences (ICE-CSIC) [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw)
