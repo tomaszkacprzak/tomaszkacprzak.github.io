@@ -45,9 +45,9 @@ At PSI, I work on a number of projects advancing the applications of machine lea
 
 I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the largest ground-based cosmological observational survey to date. I have been involved in DES since 2012, with the following contributions:
 
-- As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations,
+- As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations.
 
-- I led the first simulation-based inference cosmology mesurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)),
+- I led the first simulation-based inference cosmology mesurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)).
 
 - I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear calibrations, and contributed significantly to DES Science Verification weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)).
 
@@ -77,6 +77,27 @@ Other recorded talks include:
 - ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland, 2022, [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I),
 - Institute of Space Sciences (ICE-CSIC), Barcelona, Spain, 2022, [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw),
 - Cosmic Connections: A ML X Astrophysics Symposium at Simons Foundation, Flatiron Institute, New York, USA [video: day 2 session 2](https://www.youtube.com/watch?v=2E7ys35x3Rw](https://www.simonsfoundation.org/event/cosmic-connections-a-ml-x-astrophysics-symposium/).
+
+
+<br>
+# Datasets and software
+---
+
+I am producing and maintaining a number of datasets and software packages.
+
+- I am the leader of the CosmoGridV1 simulation project, which produces cosmological simulations suited for analyes with artificial intelligence. 
+The data from CosmoGridV1 is available at [www.cosmogrid.ai](www.cosmogrid.ai).
+
+{% include youtube.html id="_7NP7s_0d7E" %}
+
+<br>
+
+- I co-created [DeepSphere](https://github.com/deepsphere), a graph-based neural network architecture for analysing data on the sphere ([Astronomy and Computing 2019, 27](https://www.sciencedirect.com/science/article/abs/pii/S2213133718301392?via%3Dihub)).
+
+- I published the [DeepLSS code](https://github.com/tomaszkacprzak/DeepLSS) from the PRX paper [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111).
+
+- I am developing the [LaueOT package](https://github.com/LaueOT/laueotx), a toolbox for fast analysis of tomographic diffraction patters from polycrystalline samples.
+
 
 <br>
 # Teaching
