@@ -65,7 +65,7 @@ I have worked on building end-to-end simulations of various telescope images, us
 # Talks
 ---
 
-I gave a number of talks at international conferences, workshops, and university colloquia. Those are available online:
+I gave a >20 invited talks at international conferences, workshops, and university colloquia. Those are available online:
 
 Invited keynote talk at *Bayesian deep learning for cosmology and time domain astrophysics*, Paris, France, June 20-24 2022 (AstroDeep22)
 
@@ -74,8 +74,9 @@ Invited keynote talk at *Bayesian deep learning for cosmology and time domain as
 <br>
 
 Other talks:
-- ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
-- Institute of Space Sciences (ICE-CSIC) [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw)
+- ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland, 2022, [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
+- Institute of Space Sciences (ICE-CSIC), Barcelona, Spain, 2022, [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw)
+- Cosmic Connections: A ML X Astrophysics Symposium at Simons Foundation, Flatiron Institute, New York, USA [video: day 2 session 2]([https://www.youtube.com/watch?v=2E7ys35x3Rw](https://www.simonsfoundation.org/event/cosmic-connections-a-ml-x-astrophysics-symposium/))
 
 <br>
 # Teaching
