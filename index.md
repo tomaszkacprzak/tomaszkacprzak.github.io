@@ -5,6 +5,7 @@ I am a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch) and a Sen
 My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
 
 # Recent papers
+---
 
 - *CosmoGridV1: a simulated 𝗐CDM theory prediction for map-level cosmological inference*, with data available at [www.cosmogrid.ai](www.cosmogrid.ai), published in [JCAP 2, 50, 2023](https://iopscience.iop.org/article/10.1088/1475-7516/2023/02/050),
 
@@ -14,9 +15,10 @@ My focus is applications of novel machine learning and high-performance computin
 
 - *Full wCDM analysis of KiDS-1000 weak lensing maps using deep learning*, published in [Phys. Rev. D 105, 083518, 2022](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.083518).
 
----
+
 
 # Projects
+---
 
 ###  Cosmology and artificial intelligence
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning appraches to constraining cosmological parameters and generating large scale structure simulations.
@@ -58,8 +60,9 @@ I have worked on building end-to-end simulations of various telescope images, us
  - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
 
 
----
+
 # Talks
+---
 
 I gave a number of talks at international conferences, workshops, and university colloquia. Those are available online:
 
@@ -69,9 +72,8 @@ Invited keynote talk at *Bayesian deep learning for cosmology and time domain as
 
 Other talks:
 - ICS Theoretical Astrophysics & Computational Science, University of Zurich, Switzerland [youtube](https://www.youtube.com/watch?v=0HihsVz_b9I)
+- Institute of Space Sciences (ICE-CSIC) [youtube](https://www.youtube.com/watch?v=2E7ys35x3Rw)
 
-
-{% include youtube.html id="0HihsVz_b9I" %}
 
 # Teaching
 
