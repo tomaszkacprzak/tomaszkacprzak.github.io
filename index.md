@@ -36,7 +36,7 @@ I am a Bilder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the 
 
 - I led the first simulation-based inference cosmology mesurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)),
 
-- I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear measurements, and contributed significantly to DES Science Verification weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)).
+- I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear calibrations, and contributed significantly to DES Science Verification weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)).
 
 ### Machine learning for applied physics and climate science
 
