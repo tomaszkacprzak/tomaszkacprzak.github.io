@@ -10,7 +10,7 @@ My focus is applications of novel machine learning and high-performance computin
 
 - *CosmoGridV1: a simulated 𝗐CDM theory prediction for map-level cosmological inference*, with data available at [www.cosmogrid.ai](www.cosmogrid.ai), published in [JCAP 2, 50, 2023](https://iopscience.iop.org/article/10.1088/1475-7516/2023/02/050),
 
-- *DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes*, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
+- *DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes*, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), and promoted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
 
 - *Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach*, published in [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572),
 
@@ -94,7 +94,7 @@ The data from CosmoGridV1 is available at [www.cosmogrid.ai](www.cosmogrid.ai).
 
 - I co-created [DeepSphere](https://github.com/deepsphere), a graph-based neural network architecture for analysing data on the sphere ([Astronomy and Computing 2019, 27](https://www.sciencedirect.com/science/article/abs/pii/S2213133718301392?via%3Dihub)).
 
-- I published the [DeepLSS code](https://github.com/tomaszkacprzak/DeepLSS) from the PRX paper [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), highlighted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111).
+- I published the [DeepLSS code](https://github.com/tomaszkacprzak/DeepLSS) from the PRX paper [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029).
 
 - I am developing the [LaueOT package](https://github.com/LaueOT/laueotx), a toolbox for fast analysis of tomographic diffraction patters from polycrystalline samples.
 
