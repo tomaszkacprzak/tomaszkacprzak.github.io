@@ -14,6 +14,7 @@ My focus is applications of novel machine learning and high-performance computin
 
 - *Full wCDM analysis of KiDS-1000 weak lensing maps using deep learning*, published in [Phys. Rev. D 105, 083518, 2022](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.083518).
 
+---
 
 # Projects
 
@@ -58,6 +59,17 @@ I have worked on building end-to-end simulations of various telescope images, us
 
 
 ---
+# Talks
+
+I gave a number of talks at international conferences, workshops, and university colloquia. Those are available online:
+
+- [AstroDeep2019 Paris](https://www.youtube.com/watch?v=X0Uk8gB-dF4)
+
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_7NP7s_0d7E" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 # Teaching
 
@@ -67,6 +79,12 @@ I taught a number of courses on machine learning and data science, cosmology, an
 - *Advanced Statistical Methods in Cosmology* (2016, 2017), MSc course, ETHZ Physics
 - *Cosmological Probes* (2017), MSc course, ETHZ Physics Department
 - Guest lecturer for UG course *Introduction to Data Science* (2019, 2020), University of Zurich
+
+
+---
+
+
+---
 
 # Contact
 
