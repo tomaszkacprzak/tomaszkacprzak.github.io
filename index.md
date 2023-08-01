@@ -24,7 +24,7 @@ Full list of papers on [Google Scholar](https://scholar.google.com/citations?use
 ---
 
 ###  Cosmology and artificial intelligence
-Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations.
+Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations. I demonstrated that the AI-based analysis can achieve 40% improvement in measurement precision, an equivalent gain to an analysis with conventional methods and 2x more survey data.
 
 - I performed the first cosmological analysis with deep learning, on KiDS-450 dataset ([Phys. Rev. D 2019, 100, 063514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514), with Janis Fluri), which was promoted by [ETH News (18/09/2019)](https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html) and [MIT Techology Review (19/09/2019)](https://www.technologyreview.com/2019/09/19/446/facial-recognition-algorithms-can-be-deployed-to-hunt-for-dark-matter/). 
 
@@ -36,7 +36,8 @@ Artificial Intelligence methods, such as deep convolutional neural networks, hav
 
 ### Machine learning for applied physics and climate science
 
-At PSI, I work on a number of projects advancing the applications of machine learning to applied physics and climate simulations:
+At PSI, I work on a number of projects advancing the applications of machine learning to applied physics and climate simulations.
+By applying novel machine learning methods, (deep learning, generative models), and utilizing latest high-performance computing hardware (A100 GPS, the Alps cluster), I enable achieving scientific objectives that are unattainable with classical methods.
 
 - I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
 
@@ -45,20 +46,27 @@ At PSI, I work on a number of projects advancing the applications of machine lea
 
 ### Dark Energy Survey
 
-I am a Builder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the largest ground-based cosmological observational survey to date. I have been involved in DES since 2012, with the following contributions:
+I am a Builder of the [Dark Energy Survey](http://www.darkenergysurvey.org), the largest ground-based cosmological observational survey to date. This program has delivered the most precise cosmological parameter measurements from large scale structure of the universe to date.
+I have been involved in DES since 2012, with the following contributions:
 
-- As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations.
+- As the Simulations Working Group coordinator and a memeber of the Science Committee (2022-), I organize new projects and collaboration in the area of simulation-based inference and provide CosmoGridV1 simulations, where we aim to further increase the precision of measurements from the expensive DES dataset with simulations-based inference, as well as making it more robust to systematic errors.
 
-- I led the first simulation-based inference cosmology measurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)).
+- I led the first simulation-based inference cosmology measurement with DES, using shear peaks and the Science Verification dataset ([MNRAS 2016, 463, 4](https://academic.oup.com/mnras/article/463/4/3653/2646308)), followed by the full survey area analysis in DES Year 3 ([MNRAS 2022, 511, 2](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572)). This analysis improved on the main DES measurement by 30%, while using low-resolution maps.
 
-- I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear calibrations, and contributed significantly to DES Science Verification weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)).
+- I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear calibrations, and contributed significantly to DES Science Verification (SV) weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)). This work enabled reliable shape measurements for DES-SV cosmology.
 
 
 ### Simulations-based inference in cosmology and astronomy
 
-I have worked on building end-to-end simulations of various telescope images, using parametric models for galaxy populations. I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to constrain galaxy population models with simulations. 
+In photometric surveys, the distances to galaxies are inferred from galaxy colors by matching them to galaxies found in previous spectroscopic surveys.
+While this approach has many successes for closeby galaxies, where spectroscopic data is available in abundance, it can be difficult to reliably apply to far-away galaxies.
+This is due to our lack of understanding of the population these high-redshift galaxies, and their evolution over time. 
+Difficulties with modelling selection functions for spectroscopic surveys further complicates this problem.
+An alternative is to use very realistic image simulations and use them to infere galaxy populations using advanced statistical methods.
+To achieve this, I have pioneered the use of Approximate Bayesian Computation (ABC) techniques to constrain galaxy population models with simulations. 
+I built end-to-end simulations of various telescope images, using parametric models for galaxy populations, and constrained them using imaging survey data. 
 
-- I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation and utilizes high-performance computing platforms.
+- I developed first forward-modelling, simulations-based approach to measuring redshifts of galaxy samples from wide-band photometry alone ([JCAP 2017, 08, 035](https://iopscience.iop.org/article/10.1088/1475-7516/2017/08/035), with Joerg Herbel), which uses Approximate Bayesian Computation and utilizes high-performance computing platforms. 
 
  - I led the team at the ETH Zurich that applied the simulations-based inference methodology to the Dark Energy Survey Year 1 cosmology.  We performed first simulation-based joint measurement of cosmological lensing shear power spectra and the redshift distributions of the galaxy samples. This method used massive Monte Carlo Contol Loop simulations, inspired by the approaches in particle physics ([Phys. Rev. D 2020, 101, 082003](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.082003)).
 
