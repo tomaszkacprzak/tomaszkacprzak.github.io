@@ -32,12 +32,12 @@ Artificial Intelligence methods, such as deep convolutional neural networks, hav
 
 - I was the lead organizer for the workshop ["Artificial Intelligence Methods in Cosmology"](https://sites.google.com/site/aicosmo2019/), held in Monte Verita, Ascona, 9-12 June 2019.
 
-### Machine learning for applied physics and climate science
+### Machine learning for applied physics
 
 At PSI, I work on a number of projects advancing the applications of machine learning to applied physics and climate simulations.
 By applying novel machine learning methods, (deep learning, generative models), and utilizing latest high-performance computing hardware (A100 GPS, the Alps cluster), I enable achieving scientific objectives that are unattainable with classical methods.
 
-- I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
+- I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The paper under review in IEEE PAMI is available on arxiv: [2404.06478](https://arxiv.org/abs/2404.06478). The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
 
 - I am the lead data scientist at SDSC's contribution to the [Exclaim](https://exclaim.ethz.ch) project. I am developing fast and versatile methods for compressing massive climate simulations, aiming at 1 km resolution maps produced by the upcoming Alps supercomputing cluster at CSCS. I am investigating possible applications of machine learning techniques to aid the efficiency and accuracy of climate simulations.
 
