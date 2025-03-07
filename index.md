@@ -10,13 +10,11 @@ My focus is applications of novel machine learning and high-performance computin
 # Recent papers
 ---
 
+- *Laue Indexing with Optimal Transport*, under review in IEEE Pattern Analysis and Machine Intelligence, [arxiv:2404.06478](https://arxiv.org/abs/2404.06478])
+
 - *CosmoGridV1: a simulated 𝗐CDM theory prediction for map-level cosmological inference*, with data available at [www.cosmogrid.ai](www.cosmogrid.ai), published in [JCAP 2, 50, 2023](https://iopscience.iop.org/article/10.1088/1475-7516/2023/02/050),
 
 - *DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes*, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), and promoted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111),
-
-- *Dark Energy Survey Year 3 results: Cosmology with peaks using an emulator approach*, published in [MNRAS 511, 2, 2075-2104, 2022](https://academic.oup.com/mnras/article-abstract/511/2/2075/6511572),
-
-- *Full wCDM analysis of KiDS-1000 weak lensing maps using deep learning*, published in [Phys. Rev. D 105, 083518, 2022](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.083518).
 
 
 <br>
