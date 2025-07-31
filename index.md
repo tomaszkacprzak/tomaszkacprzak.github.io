@@ -11,7 +11,7 @@ My focus is applications of novel machine learning and high-performance computin
 
 - *Scalable Approximate Algorithms for Optimal Transport Linear Models*, under review in Journal of Machine Learning Research, [arxiv:2504.04609](https://arxiv.org/abs/2504.04609).
 
-- *SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport*, Monthly Notices of the Royal Astronomical Society Letters, Volume 542, Issue 1 [2502.17553](https://www.arxiv.org/abs/2502.17553).
+- *SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport*, Monthly Notices of the Royal Astronomical Society Letters, Volume 542, Issue 1, [2502.17553](https://www.arxiv.org/abs/2502.17553).
 
 - *DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes*, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), and promoted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111).
 
