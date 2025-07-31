@@ -9,7 +9,7 @@ My focus is applications of novel machine learning and high-performance computin
 # Recent papers
 ---
 
-- *Scalable Approximate Algorithms for Optimal Transport Linear Models*, under review in Journal of Machine Learning Research, [arxiv:2504.04609](https://arxiv.org/abs/2504.04609).
+- *Scalable Approximate Algorithms for Optimal Transport Linear Models*, under review in Journal of Machine Learning Research, [2504.04609](https://arxiv.org/abs/2504.04609).
 
 - *SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport*, Monthly Notices of the Royal Astronomical Society Letters, Volume 542, Issue 1, [2502.17553](https://www.arxiv.org/abs/2502.17553).
 
