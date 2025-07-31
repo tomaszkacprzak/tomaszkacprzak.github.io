@@ -56,7 +56,7 @@ I have been involved in DES since 2012, with the following contributions:
 - I worked extensively on galaxy shape measurements for weak gravitational lensing, image simulations, and noise biases in shear calibrations, and contributed significantly to DES Science Verification (SV) weak lensing analysis ([MNRAS 2016, 460, 2](https://academic.oup.com/mnras/article/460/2/2245/2609178)). This work enabled reliable shape measurements for DES-SV cosmology.
 
 
-### Simulations-based Inference in Cosmology and Astronomy
+### Simulations-Based Inference in Cosmology and Astronomy
 
 In photometric surveys, the distances to galaxies are inferred from galaxy colors by matching them to galaxies found in previous spectroscopic surveys.
 While this approach has many successes for closeby galaxies, where spectroscopic data is available in abundance, it can be difficult to reliably apply to far-away galaxies.
