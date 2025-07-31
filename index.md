@@ -3,7 +3,7 @@
 I am a Humboldt Experienced Research Fellow at the [University Observatory Munich](https://www.usm.uni-muenchen.de/index_en.php), Faculty of Physics at the Ludwig-Maximilians-University.
 Previously, I was a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch) and a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch).
 I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
-My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
+
 
 <br>
 # Recent papers
@@ -109,18 +109,6 @@ The data from CosmoGridV1 is available at [www.cosmogrid.ai](www.cosmogrid.ai).
 - I am developing the [LaueOT package](https://github.com/LaueOT/laueotx), a toolbox for fast analysis of tomographic diffraction patters from polycrystalline samples.
 
 - The code for optimal transport linear models is available in the [OTLM](https://github.com/tomaszkacprzak/otlm) repository.
-
-
-<br>
-# Teaching
----
-
-I taught a number of courses on machine learning and data science, cosmology, and astrophysics:
-
-- *Statistical Methods and Analysis in Experimental Physics* (2019, 2020), MSc course, ETHZ Physics
-- *Advanced Statistical Methods in Cosmology* (2016, 2017), MSc course, ETHZ Physics
-- *Cosmological Probes* (2017), MSc course, ETHZ Physics
-- Guest lecturer for UG course *Introduction to Data Science* (2019, 2020), University of Zurich
 
 
 <br>
