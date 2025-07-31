@@ -28,7 +28,7 @@ Optimal transport (OT) is a powerful framework for solving differenty types of d
 
 - I am the lead data scientist for the collaborative project between SDSC and the PSI Center for Neutron and Muon Research, called "Smart Analysis of MUonic x-Rays with Artificial Intelligence". This project analyses muonicy spectra obtained by the state-of-the-art moun-induced X-ray emmission instrument [MIXE](https://www.psi.ch/en/smus/muon-induced-x-ray-emission-mixe-project) to infer the chemical composition of various samples, such as alloys, batteries, archeological artifacts. As part of this project, I developed novel scalable Sinkhorn-like algorithms for linear regression with optimal transport cost functions [2504.04609](https://arxiv.org/abs/2504.04609).
 
-- I proposed optimal transport algorithms for the matching galaxies and dark matter halos in cosmological simulations [SHAM-OT](https://www.arxiv.org/abs/2502.17553). In this work, we re-formulated the Subhalo Abundance Matching problem as optimal transport and solved it using fast and scalable OT solvers.
+- I proposed optimal transport algorithms for the matching galaxies and dark matter halos in cosmological simulations [(SHAM-OT)](https://www.arxiv.org/abs/2502.17553). In this work, we re-formulated the Subhalo Abundance Matching problem as optimal transport and solved it using fast and scalable OT solvers.
  
 
 ###  Cosmology and Artificial Intelligence
