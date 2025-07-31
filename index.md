@@ -22,7 +22,7 @@ My focus is applications of novel machine learning and high-performance computin
 
 ### Applied Optimal Transport
 
-Optimal transport (OT) is a powerful framwwork for solving differenty types of problems, such as matching, domain shifts, generative modelling, and comparison of shapes. Despite its complexity, simple and scalable algorithms exist for solving it. This makes OT suitable for large-scale problems and modern HPC architectures.
+Optimal transport (OT) is a powerful framework for solving differenty types of data science problems, such as matching, domain shifts, generative modelling, and comparison of shapes. Despite its complexity, simple and scalable algorithms exist for solving it. This makes OT suitable for large-scale problems and modern HPC architectures. In my work, I introduced OT to several application areas in applied physics, as well as proposed a new model for OT-based regression.
 
 - I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is based on optimal transport. It is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The paper [Laue Indexing with Optimal Transport](https://arxiv.org/abs/2404.06478) is under review in IEEE PAMI. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
 
