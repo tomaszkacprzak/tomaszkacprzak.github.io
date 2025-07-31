@@ -108,6 +108,8 @@ The data from CosmoGridV1 is available at [www.cosmogrid.ai](www.cosmogrid.ai).
 
 - I am developing the [LaueOT package](https://github.com/LaueOT/laueotx), a toolbox for fast analysis of tomographic diffraction patters from polycrystalline samples.
 
+- The code for optimal transport linear models is available in the [OTLM](https://github.com/tomaszkacprzak/otlm) repository.
+
 
 <br>
 # Teaching
