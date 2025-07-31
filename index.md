@@ -21,14 +21,16 @@ My focus is applications of novel machine learning and high-performance computin
 # Projects
 ---
 
-### Machine learning for applied physics
+### Applied Optimal Transport
 
-At PSI, I work on a number of projects advancing the applications of machine learning to applied physics and climate simulations.
-By applying novel machine learning methods, (deep learning, generative models), and utilizing latest high-performance computing hardware (A100 GPS, the Alps cluster), I enable achieving scientific objectives that are unattainable with classical methods.
+At PSI, I work on a number of projects advancing the applications of optimal transport and mathematical optimization to applied physics.
 
 - I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The paper [Laue Indexing with Optimal Transport](https://arxiv.org/abs/2404.06478) is under review in IEEE PAMI. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
 
-- I am the lead data scientist for the collaborative project between SDSC and the PSI Center for Neutron and Muon Research, called "Smart Analysis of MUonic x-Rays with Artificial Intelligence". This project analyses muonicy spectra obtained by the state-of-the-art moun-induced X-ray emmission instrument [MIXE](https://www.psi.ch/en/smus/muon-induced-x-ray-emission-mixe-project) to infer the chemical composition of various samples, such as alloys, batteries, archeological artifacts.
+- I am the lead data scientist for the collaborative project between SDSC and the PSI Center for Neutron and Muon Research, called "Smart Analysis of MUonic x-Rays with Artificial Intelligence". This project analyses muonicy spectra obtained by the state-of-the-art moun-induced X-ray emmission instrument [MIXE](https://www.psi.ch/en/smus/muon-induced-x-ray-emission-mixe-project) to infer the chemical composition of various samples, such as alloys, batteries, archeological artifacts. As part of this project, I developed novel scalable Sinkhorn-like algorithms for linear regression with optimal transport cost functions [2504.04609](https://arxiv.org/abs/2504.04609).
+
+- I proposed optimal transport algorithms for the matching galaxies and dark matter halos in cosmological simulations [SHAM-OT](https://www.arxiv.org/abs/2502.17553). In this work, we re-formulated the Subhalo Abundance Matching problem as optimal transport and solved it using fast and scalable OT solvers.
+ 
 
 ###  Cosmology and artificial intelligence
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations. I demonstrated that the AI-based analysis can achieve 40% improvement in measurement precision, a gain equivalent to using 2x more survey data with conventional methods.
