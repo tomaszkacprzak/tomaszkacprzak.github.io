@@ -1,8 +1,7 @@
 # Data science, cosmology, physics
 
-
-I am a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch). 
-Previously, I was a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch).
+I am a Humboldt Experienced Research Fellow at the University Observatory Munich, Faculty of Physics at the Ludwig-Maximilians-University.
+Previously, I was a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch) and a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch).
 I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
 My focus is applications of novel machine learning and high-performance computing to solve outstanding problems in physics, cosmology, and climate science.
 
@@ -10,9 +9,9 @@ My focus is applications of novel machine learning and high-performance computin
 # Recent papers
 ---
 
-- *Laue Indexing with Optimal Transport*, under review in IEEE Pattern Analysis and Machine Intelligence, [arxiv:2404.06478](https://arxiv.org/abs/2404.06478]).
+- *Scalable Approximate Algorithms for Optimal Transport Linear Models*, under review in Journal of Machine Learning Research, [arxiv:2504.04609](https://arxiv.org/abs/2504.04609).
 
-- *CosmoGridV1: a simulated 𝗐CDM theory prediction for map-level cosmological inference*, with data available at [www.cosmogrid.ai](www.cosmogrid.ai), published in [JCAP 2, 50, 2023](https://iopscience.iop.org/article/10.1088/1475-7516/2023/02/050).
+- *SHAM-OT: Rapid Subhalo Abundance Matching with Optimal Transport*, Monthly Notices of the Royal Astronomical Society Letters, Volume 542, Issue 1 [2502.17553](https://www.arxiv.org/abs/2502.17553).
 
 - *DeepLSS: breaking parameter degeneracies in large scale structure with deep learning analysis of combined probes*, published in Physical Review X, [Phys. Rev. X 12 031029, 2022](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031029), and promoted in the [APS Physics Magazine](https://physics.aps.org/articles/v15/s111).
 
@@ -23,16 +22,14 @@ My focus is applications of novel machine learning and high-performance computin
 
 ### Applied Optimal Transport
 
-At PSI, I work on a number of projects advancing the applications of optimal transport and mathematical optimization to applied physics.
-
-- I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The paper [Laue Indexing with Optimal Transport](https://arxiv.org/abs/2404.06478) is under review in IEEE PAMI. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
+- I lead the collaborative project "Robust and scalable Machine Learning algorithms for Laue 3-Dimensional Neutron Diffraction Tomography" at the PSI. Our novel approach to indexing of polycrystalline diffraction patterns from neutron tomography is based on optimal transport. It is capable of analyzing 10x larger samples with 100x gain in speed, compared to previous methods. The paper [Laue Indexing with Optimal Transport](https://arxiv.org/abs/2404.06478) is under review in IEEE PAMI. The upcoming package LaueOT will avalilable at [Github](https://github.com/LaueOT/laueotx).
 
 - I am the lead data scientist for the collaborative project between SDSC and the PSI Center for Neutron and Muon Research, called "Smart Analysis of MUonic x-Rays with Artificial Intelligence". This project analyses muonicy spectra obtained by the state-of-the-art moun-induced X-ray emmission instrument [MIXE](https://www.psi.ch/en/smus/muon-induced-x-ray-emission-mixe-project) to infer the chemical composition of various samples, such as alloys, batteries, archeological artifacts. As part of this project, I developed novel scalable Sinkhorn-like algorithms for linear regression with optimal transport cost functions [2504.04609](https://arxiv.org/abs/2504.04609).
 
 - I proposed optimal transport algorithms for the matching galaxies and dark matter halos in cosmological simulations [SHAM-OT](https://www.arxiv.org/abs/2502.17553). In this work, we re-formulated the Subhalo Abundance Matching problem as optimal transport and solved it using fast and scalable OT solvers.
  
 
-###  Cosmology and artificial intelligence
+###  Cosmology and Artificial Intelligence
 Artificial Intelligence methods, such as deep convolutional neural networks, have the capacity to model the complex patterns contained in the cosmic web. I have introduced the deep learning approaches to constraining cosmological parameters and generating large scale structure simulations. I demonstrated that the AI-based analysis can achieve 40% improvement in measurement precision, a gain equivalent to using 2x more survey data with conventional methods.
 
 - I performed the first cosmological analysis with deep learning, on KiDS-450 dataset ([Phys. Rev. D 2019, 100, 063514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514), with Janis Fluri), which was promoted by [ETH News (18/09/2019)](https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html) and [MIT Techology Review (19/09/2019)](https://www.technologyreview.com/2019/09/19/446/facial-recognition-algorithms-can-be-deployed-to-hunt-for-dark-matter/). 
@@ -128,7 +125,6 @@ I taught a number of courses on machine learning and data science, cosmology, an
 
 
 - Email at ETH Zurich: tomaszk at phys dot ethz dot ch
-- Email at PSI: tomasz dot kacprzak at psi dot ch
 
 
 <br>
