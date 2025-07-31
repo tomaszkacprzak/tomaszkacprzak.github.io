@@ -1,4 +1,4 @@
-# Data science, cosmology, physics
+# Applied Data Science, Artificial Intelligence and High-Performance Computing
 
 I am a Humboldt Experienced Research Fellow at the [University Observatory Munich](https://www.usm.uni-muenchen.de/index_en.php), Faculty of Physics at the Ludwig-Maximilians-University.
 Previously, I was a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch) and a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch).
