@@ -4,6 +4,8 @@ I am a Humboldt Experienced Research Fellow at the [University Observatory Munic
 Previously, I was a Senior Data Scientist at the [Swiss Data Science Center](https://www.datascience.ch) at the [Paul Scherrer Institute](https://www.psi.ch) and a Senior Scientist at [ETH Zurich](https://www.cosmology.ethz.ch).
 I obtained my PhD in Physics and Astronomy from the University College London, as well as previously a MSc in Machine Learning from the same university.
 
+In November 2025 I will join the University of Applied Sciences and Arts Northwestern Switzerland [FHNW](https://www.fhnw.ch/en/about-fhnw/schools/computer-science/institute-for-data-science) as a Professor for High-Performance Computing.
+
 
 <br>
 # Recent papers
